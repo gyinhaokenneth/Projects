@@ -24,7 +24,17 @@ For *act_stack_all_region.csv* and *sat_stack_all_region.csv*
 1. During the three-year period following the implementation of the new format, there is marginal increase in the mean SAT participation rate from 40% in 2017, to 49% in 2019. For the same period, the was greater increase in the mean ACT participation (from 32% in 2017 to 59% in 2019). 
 2. There is strong negative correlation between the SAT and ACT participation rates. In other words, students who had taken one test would likely not take the other test as they would have fulfilled the high school graduation/ college admission requirements.
 3. The states in the Midwest region recorded significantly lower SAT participation rate (averaging at less than 20%) as compared to the states in other three regions. The states identified are Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota, Ohio, and Wisconsin (state's high school graduation requirement to take the ACT test). With the current low participation rates, these states have the highest potential for increasing participation rates.
+4. Potential market size (no. of graduating students a year in the states without mandating specific test as a graduation requirement) excluding Wisconsin (ACT test is state requirement) is approximately 356,000 students [Source: Knocking at the College Door](https://www.wiche.edu/resources/knocking-at-the-college-door-9th-edition/)
 
+## Other Information
+- Typically, students who attempt both tests belong to the high-performing group and they tend to also do well in both tests. Most students would choose to complete either of the standardise test that is required to meet their graduation or college admission requirement.
+- Most students in the Midwest take the ACT test unless it is a state requirement to take the SAT, or because they are intending to apply to the top universities like Standford and Berkeley where only SAT is more accepted.
+- Both SAT and ACT offer Fee Waiver for underpriviledged students where they could take the test for free and access free resources to prepare for it. Their college application fee will also be waived. SAT College Board also provide financial aid for prospective students as well.
+
+[(Source 1)](https://medium.com/@james.dargan/participation-skews-state-averages-f68969371a01)
+[(Source 2)](https://www.forbes.com/sites/bentaylor/2014/07/17/why-the-midwest-dominates-the-sat/?sh=6bdfaf862f37)
+[(Source 3)](https://satsuite.collegeboard.org/media/pdf/sat-fee-waiver-student-brochure.pdf)
+[(Source 4)](https://www.act.org/content/act/en/products-and-services/the-act/registration/fees/fee-waivers.html)
 
 ## Recommendations
 
