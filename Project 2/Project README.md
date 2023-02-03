@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Project 2 - Regression Analysis for Housing Prices in Ames, Iowa
 
 ## Problem Statement
 Many property owners often rely on their agents to advise them on the selling price of their property. Sometimes, these advise may not be in the favour of the property owners. Agents may rush sellers into closing a deal at a lower price so that they can earn commissions quickly at the expense of their clients. On the flipside, agents may also upsell properties to earn higher commissions.
@@ -46,9 +46,10 @@ As a data analyst within the agency, I am tasked to create a property price pred
 |Linear|0.8697|0.8732|0.8583|0.0149|24316.42|0.139|13|
 |Lasso|0.8697|0.8732|0.8583|0.0149|24314.05|0.139|13|
 |Ridge|0.8697|0.8732|0.8582|0.0150|24323.28|0.139|13|
+
 *Coefficient of Variation = CV*
 
-- The SHAP plot was used to visualise the relative importance of all 13 variables. The top 3 most impactful variables on 'saleprice' are 'gr live area', 'overall qual', and 'property_age'.
+- SHAP plot was used to visualise the relative importance of all 13 variables. The top 3 most impactful variables on 'saleprice' are 'gr live area', 'overall qual', and 'property_age'.
 
 ## Recommendations and Conclusion
 In summary, Model 2 (lasso) has demonstrated to be a good model with high R-sq value of at least 0.85 when run on train and test datasets. With the model, we have also managed to achieve a moderately low RMSE of $24000 and low CV value of 13.9%, indicating that the model could offer predictions that are close to the actual values. The top 3 features that are strong predictors of the sale price are ground living area, overall quality of the property, and the age of the property.
